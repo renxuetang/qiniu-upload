@@ -4,10 +4,15 @@
   "description": "A simple library that helps to upload static resource file to qiniu bucket for cdn use.",
   "main": "src/index.js",
   "keywords": [
+    "qiniu",
     "qiniu-upload"
   ],
-  "author": "chenls",
+  "author": "chenli1989 <chenli_1989@foxmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renxuetang/qiniu-upload/issues"
+  },
+  "homepage": "https://github.com/renxuetang/qiniu-upload#readme",
   "dependencies": {
     "chalk": "^3.0.0",
     "dotenv": "^8.2.0",
